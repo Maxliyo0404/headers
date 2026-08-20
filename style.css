@@ -1,10 +1,10 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-}
+} */
 /* .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -25,7 +25,7 @@ ul{
     gap: 40px;
 }
 a{
-    color: #282B22;
+    color:
     font-size: 16px;
     line-height: 100%;
     font-weight: 500;
@@ -122,4 +122,9 @@ a{
 .pole{
     height: 300px;
     width: 500px;
+border-radius: 100px;
+background-color: brown;
+
+
+
 }
