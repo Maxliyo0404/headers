@@ -84,6 +84,7 @@ a{
 .card1{
     width: 300px;
     height: 300px;
+    margin: 0 auto;
     background: white;
     animation-name: anim1;
     animation-duration: 2s;
