@@ -92,3 +92,17 @@ a{
     animation-iteration-count: infinite;
 
 }
+@keyframes anim1 {
+    0%{
+      transform: translate(100px) ;
+    }
+    25%{
+      transform: translate(100px) ;
+    }
+    0%{
+      transform: translate(100px) ;
+    }
+    0%{
+      transform: translate(100px) ;
+    }
+}
