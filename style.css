@@ -94,15 +94,18 @@ a{
 }
 @keyframes anim1 {
     0%{
-      transform: translate(100px) ;
+      transform: translate(0) ;
     }
     25%{
-      transform: translate(100px) ;
+      transform: translate(100px , 100px) rotate(45deg) ;
     }
-    0%{
-      transform: translate(100px) ;
+    50%{
+      transform: translate(200px, 300px)scale(1.1) ;
     }
-    0%{
-      transform: translate(100px) ;
+    75%{
+      transform: translate(300px) rotate(180deg);
+    }
+    100%{
+      transform: translate(200px, 300px) rotate(360deg) ;
     }
 }
