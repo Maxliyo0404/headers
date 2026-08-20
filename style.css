@@ -74,7 +74,8 @@ a{
 
 .card{
     width: 100%;
-    background: greenyellow;
+    height: 700px;
+  background: red;
     display: flex;
     align-items: center;
     justify-content: space-between;
