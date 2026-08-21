@@ -130,5 +130,7 @@ a{
     animation-direction: alternate;
 }
  @keyframes box  {
-    
+    0%{
+        
+    }
  }   
