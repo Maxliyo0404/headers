@@ -126,5 +126,6 @@ a{
     animation-timing-function: ease-in;
     animation-duration: 2s;
     animation-fill-mode: backwards;
+    animation-iteration-count: infinite;
 }
     
