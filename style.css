@@ -140,7 +140,7 @@ a{
         transform:translate(400px, 500px)scale(1.1) ;
     }
     0%{
-        transform:translate(0) ;
+        transform:translate(600px) ;
     }
     0%{
         transform:translate(0) ;
