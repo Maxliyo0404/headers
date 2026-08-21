@@ -123,5 +123,6 @@ a{
     height: 300px;
     background: saddlebrown;
     animation-name: box;
+    animation-timing-function: ease-in;
 }
     
