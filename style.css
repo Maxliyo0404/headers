@@ -141,6 +141,7 @@ a{
     }
     0%{
         transform:translate(600px, 600px)rotate(180deg) ;
+        margin-left: auto;
     }
     0%{
         transform:translate(0) ;
