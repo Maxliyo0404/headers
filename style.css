@@ -137,7 +137,7 @@ a{
         transform:translate(200px, 300px) ;
     }
     0%{
-        transform:translate(0) ;
+        transform:translate(400px) ;
     }
     0%{
         transform:translate(0) ;
