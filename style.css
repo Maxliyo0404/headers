@@ -131,6 +131,6 @@ a{
 }
  @keyframes box  {
     0%{
-        transform: ;
+        transform:translate() ;
     }
  }   
