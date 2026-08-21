@@ -144,6 +144,6 @@ a{
         margin-left: auto;
     }
     0%{
-        transform:translate(200px, 800px) ;
+        transform:translate(200px, 800px)scale(0) ;
     }
  }   
